@@ -1,5 +1,3 @@
 torch>=2.0
 transformers>=4.30
-scikit-learn
-matplotlib
-jupyter
+pytest>=7.0
